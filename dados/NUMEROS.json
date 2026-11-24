@@ -1,5 +1,5 @@
 {
- "corte": "24/11/2026 18:27",
+ "corte": "24/11/2026 18:39",
  "vendas_mes": 406453.14,
  "vendas_mes_bruto": 442648.79,
  "correcao_mes": 36195.65,
@@ -12,19 +12,19 @@
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "24/11/2026 18:27",
+  "corte": "24/11/2026 18:39",
   "janela_dias": 30,
   "janela_ini": "25/10/2026",
   "tipos": {
    "NOVO": {
-    "n": 9,
-    "itens": 10,
-    "valor": 173000.0
+    "n": 10,
+    "itens": 11,
+    "valor": 199101.37
    },
    "RENOVACAO": {
-    "n": 15,
-    "itens": 15,
-    "valor": 122898.37
+    "n": 14,
+    "itens": 14,
+    "valor": 96797.0
    },
    "RECUPERACAO": {
     "n": 1,
@@ -53,20 +53,14 @@
    }
   },
   "upsell": {
-   "n": 7,
-   "valor": 95701.37
+   "n": 6,
+   "valor": 69600.0
   },
   "pedidos": 70,
   "itens": 71,
   "contagem": "n = pedidos, itens = linhas de pedido; um pedido com plano e item de loja conta no tipo do plano e em OUTROS",
-  "divergencias_fechamento": [
-   {
-    "pedido": "63532",
-    "regra": "NOVO",
-    "fechamento": "RENOVACAO"
-   }
-  ],
-  "fonte_fixo": "classificacao_vendas.json",
+  "divergencias_fechamento": [],
+  "fonte_fixo": null,
   "novo_se_pass_pago_nao_contasse": 0,
   "cadastros_mes": 90,
   "pass_mes": {
@@ -112,7 +106,7 @@
   "noshow_club": {
    "pessoas": 170,
    "reservas": 473,
-   "janela": "25/10/2026 a 24/11/2026 18:27"
+   "janela": "25/10/2026 a 24/11/2026 18:39"
   },
   "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 25/10/2026 e o corte, sem plano pago vigente (fora Pass) em 25/10/2026",
   "noshow_leads": "20 de 247 leads",
@@ -124,7 +118,7 @@
   "uso": {
    "Founder": {
     "membros": 89,
-    "checkins": 692,
+    "checkins": 693,
     "com_checkin": 61,
     "media": 7.8
    },
@@ -169,12 +163,12 @@
    {
     "nome": "Pâmela Alvarenga",
     "NOVO": {
-     "n": 4,
-     "valor": 95200.0
+     "n": 5,
+     "valor": 121301.37
     },
     "RENOVACAO": {
-     "n": 4,
-     "valor": 40701.37
+     "n": 3,
+     "valor": 14600.0
     },
     "RECUPERACAO": {
      "n": 0,
