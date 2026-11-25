@@ -1,5 +1,5 @@
 {
- "corte": "25/11/2026 07:14",
+ "corte": "25/11/2026 08:15",
  "vendas_mes": 436453.14,
  "vendas_mes_bruto": 472648.79,
  "correcao_mes": 36195.65,
@@ -12,7 +12,7 @@
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "25/11/2026 07:14",
+  "corte": "25/11/2026 08:15",
   "janela_dias": 30,
   "janela_ini": "26/10/2026",
   "tipos": {
@@ -105,8 +105,8 @@
   },
   "noshow_club": {
    "pessoas": 166,
-   "reservas": 466,
-   "janela": "26/10/2026 a 25/11/2026 07:14"
+   "reservas": 468,
+   "janela": "26/10/2026 a 25/11/2026 08:15"
   },
   "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 26/10/2026 e o corte, sem plano pago vigente (fora Pass) em 26/10/2026",
   "noshow_leads": "20 de 248 leads",
@@ -118,7 +118,7 @@
   "uso": {
    "Founder": {
     "membros": 89,
-    "checkins": 695,
+    "checkins": 696,
     "com_checkin": 61,
     "media": 7.8
    },
