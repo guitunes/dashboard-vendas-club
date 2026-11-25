@@ -1,5 +1,5 @@
 {
- "corte": "25/11/2026 18:16",
+ "corte": "25/11/2026 19:13",
  "vendas_mes": 436453.14,
  "vendas_mes_bruto": 472648.79,
  "correcao_mes": 36195.65,
@@ -12,7 +12,7 @@
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "25/11/2026 18:16",
+  "corte": "25/11/2026 19:13",
   "janela_dias": 30,
   "janela_ini": "26/10/2026",
   "tipos": {
@@ -93,7 +93,7 @@
   "funil": {
    "leads": 250,
    "agendou": 114,
-   "checkin": 83,
+   "checkin": 84,
    "venda": 8,
    "noshow": 20
   },
@@ -105,20 +105,20 @@
   },
   "noshow_club": {
    "pessoas": 166,
-   "reservas": 478,
-   "janela": "26/10/2026 a 25/11/2026 18:16"
+   "reservas": 477,
+   "janela": "26/10/2026 a 25/11/2026 19:13"
   },
   "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 26/10/2026 e o corte, sem plano pago vigente (fora Pass) em 26/10/2026",
   "noshow_leads": "20 de 250 leads",
   "cadastros_sem_unidade": {
-   "mes": 16,
-   "janela": 18,
+   "mes": 15,
+   "janela": 17,
    "criterio": "cadastro sem unit e sem origem lifeclub, não staff: não dá para saber a casa, fica fora da contagem"
   },
   "uso": {
    "Founder": {
     "membros": 89,
-    "checkins": 691,
+    "checkins": 692,
     "com_checkin": 62,
     "media": 7.8
    },
@@ -130,9 +130,9 @@
    },
    "The One": {
     "membros": 200,
-    "checkins": 1127,
+    "checkins": 1133,
     "com_checkin": 135,
-    "media": 5.6
+    "media": 5.7
    },
    "Serviços": {
     "membros": 5,
@@ -154,9 +154,9 @@
    },
    "Pass": {
     "membros": 3,
-    "checkins": 3,
-    "com_checkin": 1,
-    "media": 1.0
+    "checkins": 4,
+    "com_checkin": 2,
+    "media": 1.3
    }
   },
   "vendedores": [
