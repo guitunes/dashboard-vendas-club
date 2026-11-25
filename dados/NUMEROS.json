@@ -1,5 +1,5 @@
 {
- "corte": "25/11/2026 10:15",
+ "corte": "25/11/2026 11:12",
  "vendas_mes": 436453.14,
  "vendas_mes_bruto": 472648.79,
  "correcao_mes": 36195.65,
@@ -7,12 +7,12 @@
  "itens_mes": 72,
  "pedidos_mes": 71,
  "pagantes": 261,
- "ativos": 347,
+ "ativos": 348,
  "mrr": 175792.75,
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "25/11/2026 10:15",
+  "corte": "25/11/2026 11:12",
   "janela_dias": 30,
   "janela_ini": "26/10/2026",
   "tipos": {
@@ -65,9 +65,9 @@
   "cadastros_mes": 93,
   "pass_mes": {
    "Convidado": {
-    "lancado": 119,
-    "usado": 43,
-    "cortesia": 119,
+    "lancado": 120,
+    "usado": 44,
+    "cortesia": 120,
     "pago": 0,
     "de_cadastro_novo": 61,
     "sem_uso": 76
@@ -91,25 +91,25 @@
    }
   },
   "funil": {
-   "leads": 250,
-   "agendou": 113,
+   "leads": 251,
+   "agendou": 114,
    "checkin": 84,
    "venda": 9,
    "noshow": 20
   },
   "calor": {
-   "Quente": 107,
+   "Quente": 108,
    "Morno": 143,
    "Frio": 0,
    "Sem dado": 0
   },
   "noshow_club": {
    "pessoas": 166,
-   "reservas": 472,
-   "janela": "26/10/2026 a 25/11/2026 10:15"
+   "reservas": 473,
+   "janela": "26/10/2026 a 25/11/2026 11:12"
   },
   "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 26/10/2026 e o corte, sem plano pago vigente (fora Pass) em 26/10/2026",
-  "noshow_leads": "20 de 250 leads",
+  "noshow_leads": "20 de 251 leads",
   "cadastros_sem_unidade": {
    "mes": 16,
    "janela": 18,
@@ -118,7 +118,7 @@
   "uso": {
    "Founder": {
     "membros": 89,
-    "checkins": 694,
+    "checkins": 692,
     "com_checkin": 62,
     "media": 7.8
    },
@@ -130,8 +130,8 @@
    },
    "The One": {
     "membros": 200,
-    "checkins": 1137,
-    "com_checkin": 135,
+    "checkins": 1136,
+    "com_checkin": 134,
     "media": 5.7
    },
    "Serviços": {
@@ -153,10 +153,10 @@
     "media": 0.0
    },
    "Pass": {
-    "membros": 1,
+    "membros": 2,
     "checkins": 3,
     "com_checkin": 1,
-    "media": 3.0
+    "media": 1.5
    }
   },
   "vendedores": [
