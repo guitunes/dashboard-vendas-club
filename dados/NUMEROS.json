@@ -1,5 +1,5 @@
 {
- "corte": "25/11/2026 13:17",
+ "corte": "25/11/2026 14:15",
  "vendas_mes": 436453.14,
  "vendas_mes_bruto": 472648.79,
  "correcao_mes": 36195.65,
@@ -12,7 +12,7 @@
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "25/11/2026 13:17",
+  "corte": "25/11/2026 14:15",
   "janela_dias": 30,
   "janela_ini": "26/10/2026",
   "tipos": {
@@ -66,11 +66,11 @@
   "pass_mes": {
    "Convidado": {
     "lancado": 122,
-    "usado": 46,
+    "usado": 44,
     "cortesia": 122,
     "pago": 0,
     "de_cadastro_novo": 61,
-    "sem_uso": 76
+    "sem_uso": 78
    },
    "Convite Founder": {
     "lancado": 67,
@@ -105,8 +105,8 @@
   },
   "noshow_club": {
    "pessoas": 166,
-   "reservas": 474,
-   "janela": "26/10/2026 a 25/11/2026 13:17"
+   "reservas": 473,
+   "janela": "26/10/2026 a 25/11/2026 14:15"
   },
   "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 26/10/2026 e o corte, sem plano pago vigente (fora Pass) em 26/10/2026",
   "noshow_leads": "20 de 251 leads",
@@ -118,13 +118,13 @@
   "uso": {
    "Founder": {
     "membros": 89,
-    "checkins": 690,
+    "checkins": 692,
     "com_checkin": 62,
     "media": 7.8
    },
    "Life Code": {
     "membros": 39,
-    "checkins": 276,
+    "checkins": 278,
     "com_checkin": 24,
     "media": 7.1
    },
