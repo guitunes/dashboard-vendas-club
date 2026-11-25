@@ -1,20 +1,20 @@
 {
- "corte": "24/11/2026 23:10",
+ "corte": "25/11/2026 06:19",
  "vendas_mes": 436453.14,
  "vendas_mes_bruto": 472648.79,
  "correcao_mes": 36195.65,
  "vendas_mes_regra": "vendas do mês = itens pagos do mês menos a Correção (63644, 63740 e relançamento); o bruto fica em vendas_mes_bruto",
  "itens_mes": 72,
  "pedidos_mes": 71,
- "pagantes": 263,
- "ativos": 349,
+ "pagantes": 261,
+ "ativos": 345,
  "mrr": 175792.75,
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "24/11/2026 23:10",
+  "corte": "25/11/2026 06:19",
   "janela_dias": 30,
-  "janela_ini": "25/10/2026",
+  "janela_ini": "26/10/2026",
   "tipos": {
    "NOVO": {
     "n": 11,
@@ -98,17 +98,17 @@
    "noshow": 20
   },
   "calor": {
-   "Quente": 110,
-   "Morno": 138,
+   "Quente": 105,
+   "Morno": 143,
    "Frio": 0,
    "Sem dado": 0
   },
   "noshow_club": {
-   "pessoas": 170,
-   "reservas": 474,
-   "janela": "25/10/2026 a 24/11/2026 23:10"
+   "pessoas": 166,
+   "reservas": 465,
+   "janela": "26/10/2026 a 25/11/2026 06:19"
   },
-  "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 25/10/2026 e o corte, sem plano pago vigente (fora Pass) em 25/10/2026",
+  "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 26/10/2026 e o corte, sem plano pago vigente (fora Pass) em 26/10/2026",
   "noshow_leads": "20 de 248 leads",
   "cadastros_sem_unidade": {
    "mes": 16,
@@ -129,10 +129,10 @@
     "media": 7.0
    },
    "The One": {
-    "membros": 200,
-    "checkins": 1164,
-    "com_checkin": 137,
-    "media": 5.8
+    "membros": 198,
+    "checkins": 1134,
+    "com_checkin": 135,
+    "media": 5.7
    },
    "Serviços": {
     "membros": 5,
@@ -153,10 +153,10 @@
     "media": 0.0
    },
    "Pass": {
-    "membros": 3,
+    "membros": 1,
     "checkins": 3,
     "com_checkin": 1,
-    "media": 1.0
+    "media": 3.0
    }
   },
   "vendedores": [
