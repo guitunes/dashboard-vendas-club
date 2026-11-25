@@ -1,5 +1,5 @@
 {
- "corte": "25/11/2026 08:15",
+ "corte": "25/11/2026 09:15",
  "vendas_mes": 436453.14,
  "vendas_mes_bruto": 472648.79,
  "correcao_mes": 36195.65,
@@ -7,12 +7,12 @@
  "itens_mes": 72,
  "pedidos_mes": 71,
  "pagantes": 261,
- "ativos": 345,
+ "ativos": 347,
  "mrr": 175792.75,
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "25/11/2026 08:15",
+  "corte": "25/11/2026 09:15",
   "janela_dias": 30,
   "janela_ini": "26/10/2026",
   "tipos": {
@@ -62,7 +62,7 @@
   "divergencias_fechamento": [],
   "fonte_fixo": null,
   "novo_se_pass_pago_nao_contasse": 0,
-  "cadastros_mes": 91,
+  "cadastros_mes": 93,
   "pass_mes": {
    "Convidado": {
     "lancado": 119,
@@ -91,25 +91,25 @@
    }
   },
   "funil": {
-   "leads": 248,
+   "leads": 250,
    "agendou": 113,
    "checkin": 84,
    "venda": 9,
    "noshow": 20
   },
   "calor": {
-   "Quente": 105,
+   "Quente": 107,
    "Morno": 143,
    "Frio": 0,
    "Sem dado": 0
   },
   "noshow_club": {
    "pessoas": 166,
-   "reservas": 468,
-   "janela": "26/10/2026 a 25/11/2026 08:15"
+   "reservas": 470,
+   "janela": "26/10/2026 a 25/11/2026 09:15"
   },
   "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 26/10/2026 e o corte, sem plano pago vigente (fora Pass) em 26/10/2026",
-  "noshow_leads": "20 de 248 leads",
+  "noshow_leads": "20 de 250 leads",
   "cadastros_sem_unidade": {
    "mes": 16,
    "janela": 18,
@@ -118,19 +118,19 @@
   "uso": {
    "Founder": {
     "membros": 89,
-    "checkins": 696,
-    "com_checkin": 61,
+    "checkins": 695,
+    "com_checkin": 62,
     "media": 7.8
    },
    "Life Code": {
     "membros": 39,
-    "checkins": 277,
+    "checkins": 276,
     "com_checkin": 24,
     "media": 7.1
    },
    "The One": {
-    "membros": 198,
-    "checkins": 1138,
+    "membros": 200,
+    "checkins": 1137,
     "com_checkin": 135,
     "media": 5.7
    },
