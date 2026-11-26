@@ -1,30 +1,30 @@
 {
- "corte": "26/11/2026 10:16",
- "vendas_mes": 436453.14,
- "vendas_mes_bruto": 472648.79,
+ "corte": "26/11/2026 19:33",
+ "vendas_mes": 501153.14,
+ "vendas_mes_bruto": 537348.79,
  "correcao_mes": 36195.65,
  "vendas_mes_regra": "vendas do mês = itens pagos do mês menos a Correção (63644, 63740 e relançamento); o bruto fica em vendas_mes_bruto",
- "itens_mes": 73,
- "pedidos_mes": 72,
- "pagantes": 260,
- "ativos": 349,
- "mrr": 175792.75,
+ "itens_mes": 77,
+ "pedidos_mes": 76,
+ "pagantes": 264,
+ "ativos": 353,
+ "mrr": 175192.75,
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "26/11/2026 10:16",
+  "corte": "26/11/2026 19:33",
   "janela_dias": 30,
   "janela_ini": "27/10/2026",
   "tipos": {
    "NOVO": {
-    "n": 11,
-    "itens": 12,
-    "valor": 229101.37
+    "n": 14,
+    "itens": 15,
+    "valor": 267700.0
    },
    "RENOVACAO": {
-    "n": 14,
-    "itens": 14,
-    "valor": 96797.0
+    "n": 15,
+    "itens": 15,
+    "valor": 122898.37
    },
    "RECUPERACAO": {
     "n": 1,
@@ -53,24 +53,30 @@
    }
   },
   "upsell": {
-   "n": 6,
-   "valor": 69600.0
+   "n": 7,
+   "valor": 95701.37
   },
-  "pedidos": 72,
-  "itens": 73,
+  "pedidos": 76,
+  "itens": 77,
   "contagem": "n = pedidos, itens = linhas de pedido; um pedido com plano e item de loja conta no tipo do plano e em OUTROS",
-  "divergencias_fechamento": [],
-  "fonte_fixo": null,
+  "divergencias_fechamento": [
+   {
+    "pedido": "63532",
+    "regra": "NOVO",
+    "fechamento": "RENOVACAO"
+   }
+  ],
+  "fonte_fixo": "classificacao_vendas.json",
   "novo_se_pass_pago_nao_contasse": 0,
-  "cadastros_mes": 94,
+  "cadastros_mes": 98,
   "pass_mes": {
    "Convidado": {
-    "lancado": 124,
-    "usado": 44,
-    "cortesia": 124,
+    "lancado": 128,
+    "usado": 47,
+    "cortesia": 128,
     "pago": 0,
-    "de_cadastro_novo": 61,
-    "sem_uso": 80
+    "de_cadastro_novo": 64,
+    "sem_uso": 81
    },
    "Convite Founder": {
     "lancado": 67,
@@ -91,48 +97,48 @@
    }
   },
   "funil": {
-   "leads": 248,
-   "agendou": 113,
-   "checkin": 84,
-   "venda": 8,
-   "noshow": 19
+   "leads": 246,
+   "agendou": 109,
+   "checkin": 81,
+   "venda": 11,
+   "noshow": 18
   },
   "calor": {
-   "Quente": 110,
-   "Morno": 138,
+   "Quente": 115,
+   "Morno": 131,
    "Frio": 0,
    "Sem dado": 0
   },
   "noshow_club": {
-   "pessoas": 166,
-   "reservas": 472,
-   "janela": "27/10/2026 a 26/11/2026 10:16"
+   "pessoas": 167,
+   "reservas": 479,
+   "janela": "27/10/2026 a 26/11/2026 19:33"
   },
   "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 27/10/2026 e o corte, sem plano pago vigente (fora Pass) em 27/10/2026",
-  "noshow_leads": "19 de 248 leads",
+  "noshow_leads": "18 de 246 leads",
   "cadastros_sem_unidade": {
-   "mes": 15,
-   "janela": 17,
+   "mes": 16,
+   "janela": 18,
    "criterio": "cadastro sem unit e sem origem lifeclub, não staff: não dá para saber a casa, fica fora da contagem"
   },
   "uso": {
    "Founder": {
     "membros": 88,
-    "checkins": 692,
+    "checkins": 689,
     "com_checkin": 61,
-    "media": 7.9
+    "media": 7.8
    },
    "Life Code": {
     "membros": 39,
-    "checkins": 268,
+    "checkins": 265,
     "com_checkin": 23,
-    "media": 6.9
+    "media": 6.8
    },
    "The One": {
-    "membros": 200,
-    "checkins": 1130,
-    "com_checkin": 137,
-    "media": 5.7
+    "membros": 204,
+    "checkins": 1135,
+    "com_checkin": 138,
+    "media": 5.6
    },
    "Serviços": {
     "membros": 6,
@@ -161,14 +167,45 @@
   },
   "vendedores": [
    {
-    "nome": "Pâmela Alvarenga",
+    "nome": "Gabriel Galante",
     "NOVO": {
-     "n": 5,
-     "valor": 121301.37
+     "n": 7,
+     "valor": 127900.0
     },
     "RENOVACAO": {
-     "n": 3,
-     "valor": 14600.0
+     "n": 2,
+     "valor": 6000.0
+    },
+    "RECUPERACAO": {
+     "n": 0,
+     "valor": 0.0
+    },
+    "PARCELA": {
+     "n": 13,
+     "valor": 35734.63
+    },
+    "OUTROS": {
+     "n": 0,
+     "valor": 0.0
+    },
+    "CORRECAO": {
+     "n": 1,
+     "valor": 6195.65
+    },
+    "ZERO": {
+     "n": 4,
+     "valor": 0.0
+    }
+   },
+   {
+    "nome": "Pâmela Alvarenga",
+    "NOVO": {
+     "n": 4,
+     "valor": 95200.0
+    },
+    "RENOVACAO": {
+     "n": 4,
+     "valor": 40701.37
     },
     "RECUPERACAO": {
      "n": 0,
@@ -219,37 +256,6 @@
     },
     "ZERO": {
      "n": 0,
-     "valor": 0.0
-    }
-   },
-   {
-    "nome": "Gabriel Galante",
-    "NOVO": {
-     "n": 3,
-     "valor": 63200.0
-    },
-    "RENOVACAO": {
-     "n": 2,
-     "valor": 6000.0
-    },
-    "RECUPERACAO": {
-     "n": 0,
-     "valor": 0.0
-    },
-    "PARCELA": {
-     "n": 13,
-     "valor": 35734.63
-    },
-    "OUTROS": {
-     "n": 0,
-     "valor": 0.0
-    },
-    "CORRECAO": {
-     "n": 1,
-     "valor": 6195.65
-    },
-    "ZERO": {
-     "n": 4,
      "valor": 0.0
     }
    },
