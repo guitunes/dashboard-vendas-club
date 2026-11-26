@@ -1,5 +1,5 @@
 {
- "corte": "26/11/2026 07:12",
+ "corte": "26/11/2026 08:16",
  "vendas_mes": 436453.14,
  "vendas_mes_bruto": 472648.79,
  "correcao_mes": 36195.65,
@@ -12,7 +12,7 @@
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "26/11/2026 07:12",
+  "corte": "26/11/2026 08:16",
   "janela_dias": 30,
   "janela_ini": "27/10/2026",
   "tipos": {
@@ -106,7 +106,7 @@
   "noshow_club": {
    "pessoas": 165,
    "reservas": 468,
-   "janela": "27/10/2026 a 26/11/2026 07:12"
+   "janela": "27/10/2026 a 26/11/2026 08:16"
   },
   "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 27/10/2026 e o corte, sem plano pago vigente (fora Pass) em 27/10/2026",
   "noshow_leads": "20 de 249 leads",
@@ -118,27 +118,27 @@
   "uso": {
    "Founder": {
     "membros": 88,
-    "checkins": 692,
-    "com_checkin": 62,
-    "media": 7.9
+    "checkins": 689,
+    "com_checkin": 61,
+    "media": 7.8
    },
    "Life Code": {
     "membros": 39,
-    "checkins": 274,
+    "checkins": 273,
     "com_checkin": 23,
     "media": 7.0
    },
    "The One": {
     "membros": 200,
-    "checkins": 1128,
-    "com_checkin": 135,
-    "media": 5.6
+    "checkins": 1132,
+    "com_checkin": 137,
+    "media": 5.7
    },
    "Serviços": {
     "membros": 6,
-    "checkins": 25,
+    "checkins": 26,
     "com_checkin": 4,
-    "media": 4.2
+    "media": 4.3
    },
    "Outros (Partnership e Colaborador)": {
     "membros": 11,
