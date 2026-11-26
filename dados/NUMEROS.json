@@ -1,5 +1,5 @@
 {
- "corte": "26/11/2026 09:14",
+ "corte": "26/11/2026 10:02",
  "vendas_mes": 436453.14,
  "vendas_mes_bruto": 472648.79,
  "correcao_mes": 36195.65,
@@ -12,19 +12,19 @@
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "26/11/2026 09:14",
+  "corte": "26/11/2026 10:02",
   "janela_dias": 30,
   "janela_ini": "27/10/2026",
   "tipos": {
    "NOVO": {
-    "n": 11,
-    "itens": 12,
-    "valor": 229101.37
+    "n": 10,
+    "itens": 11,
+    "valor": 203000.0
    },
    "RENOVACAO": {
-    "n": 14,
-    "itens": 14,
-    "valor": 96797.0
+    "n": 15,
+    "itens": 15,
+    "valor": 122898.37
    },
    "RECUPERACAO": {
     "n": 1,
@@ -53,14 +53,20 @@
    }
   },
   "upsell": {
-   "n": 6,
-   "valor": 69600.0
+   "n": 7,
+   "valor": 95701.37
   },
   "pedidos": 72,
   "itens": 73,
   "contagem": "n = pedidos, itens = linhas de pedido; um pedido com plano e item de loja conta no tipo do plano e em OUTROS",
-  "divergencias_fechamento": [],
-  "fonte_fixo": null,
+  "divergencias_fechamento": [
+   {
+    "pedido": "63532",
+    "regra": "NOVO",
+    "fechamento": "RENOVACAO"
+   }
+  ],
+  "fonte_fixo": "classificacao_vendas.json",
   "novo_se_pass_pago_nao_contasse": 0,
   "cadastros_mes": 94,
   "pass_mes": {
@@ -91,25 +97,25 @@
    }
   },
   "funil": {
-   "leads": 249,
-   "agendou": 114,
+   "leads": 248,
+   "agendou": 113,
    "checkin": 84,
    "venda": 8,
-   "noshow": 20
+   "noshow": 19
   },
   "calor": {
    "Quente": 110,
-   "Morno": 139,
+   "Morno": 138,
    "Frio": 0,
    "Sem dado": 0
   },
   "noshow_club": {
    "pessoas": 166,
-   "reservas": 473,
-   "janela": "27/10/2026 a 26/11/2026 09:14"
+   "reservas": 472,
+   "janela": "27/10/2026 a 26/11/2026 10:02"
   },
   "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 27/10/2026 e o corte, sem plano pago vigente (fora Pass) em 27/10/2026",
-  "noshow_leads": "20 de 249 leads",
+  "noshow_leads": "19 de 248 leads",
   "cadastros_sem_unidade": {
    "mes": 15,
    "janela": 17,
@@ -124,15 +130,15 @@
    },
    "Life Code": {
     "membros": 39,
-    "checkins": 270,
+    "checkins": 268,
     "com_checkin": 23,
     "media": 6.9
    },
    "The One": {
     "membros": 200,
-    "checkins": 1129,
+    "checkins": 1130,
     "com_checkin": 137,
-    "media": 5.6
+    "media": 5.7
    },
    "Serviços": {
     "membros": 6,
@@ -163,12 +169,12 @@
    {
     "nome": "Pâmela Alvarenga",
     "NOVO": {
-     "n": 5,
-     "valor": 121301.37
+     "n": 4,
+     "valor": 95200.0
     },
     "RENOVACAO": {
-     "n": 3,
-     "valor": 14600.0
+     "n": 4,
+     "valor": 40701.37
     },
     "RECUPERACAO": {
      "n": 0,
