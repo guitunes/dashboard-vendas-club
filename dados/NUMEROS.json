@@ -1,20 +1,20 @@
 {
- "corte": "25/11/2026 23:14",
+ "corte": "26/11/2026 06:13",
  "vendas_mes": 436453.14,
  "vendas_mes_bruto": 472648.79,
  "correcao_mes": 36195.65,
  "vendas_mes_regra": "vendas do mês = itens pagos do mês menos a Correção (63644, 63740 e relançamento); o bruto fica em vendas_mes_bruto",
  "itens_mes": 73,
  "pedidos_mes": 72,
- "pagantes": 261,
- "ativos": 350,
+ "pagantes": 260,
+ "ativos": 349,
  "mrr": 175792.75,
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "25/11/2026 23:14",
+  "corte": "26/11/2026 06:13",
   "janela_dias": 30,
-  "janela_ini": "26/10/2026",
+  "janela_ini": "27/10/2026",
   "tipos": {
    "NOVO": {
     "n": 11,
@@ -66,11 +66,11 @@
   "pass_mes": {
    "Convidado": {
     "lancado": 124,
-    "usado": 46,
+    "usado": 44,
     "cortesia": 124,
     "pago": 0,
     "de_cadastro_novo": 61,
-    "sem_uso": 78
+    "sem_uso": 80
    },
    "Convite Founder": {
     "lancado": 67,
@@ -98,17 +98,17 @@
    "noshow": 20
   },
   "calor": {
-   "Quente": 111,
-   "Morno": 138,
+   "Quente": 110,
+   "Morno": 139,
    "Frio": 0,
    "Sem dado": 0
   },
   "noshow_club": {
-   "pessoas": 166,
-   "reservas": 477,
-   "janela": "26/10/2026 a 25/11/2026 23:14"
+   "pessoas": 165,
+   "reservas": 467,
+   "janela": "27/10/2026 a 26/11/2026 06:13"
   },
-  "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 26/10/2026 e o corte, sem plano pago vigente (fora Pass) em 26/10/2026",
+  "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 27/10/2026 e o corte, sem plano pago vigente (fora Pass) em 27/10/2026",
   "noshow_leads": "20 de 249 leads",
   "cadastros_sem_unidade": {
    "mes": 15,
@@ -117,10 +117,10 @@
   },
   "uso": {
    "Founder": {
-    "membros": 89,
-    "checkins": 692,
+    "membros": 88,
+    "checkins": 691,
     "com_checkin": 62,
-    "media": 7.8
+    "media": 7.9
    },
    "Life Code": {
     "membros": 39,
@@ -130,15 +130,15 @@
    },
    "The One": {
     "membros": 200,
-    "checkins": 1133,
+    "checkins": 1134,
     "com_checkin": 135,
     "media": 5.7
    },
    "Serviços": {
-    "membros": 5,
+    "membros": 6,
     "checkins": 25,
     "com_checkin": 4,
-    "media": 5.0
+    "media": 4.2
    },
    "Outros (Partnership e Colaborador)": {
     "membros": 11,
@@ -153,10 +153,10 @@
     "media": 0.0
    },
    "Pass": {
-    "membros": 4,
-    "checkins": 5,
-    "com_checkin": 3,
-    "media": 1.2
+    "membros": 3,
+    "checkins": 3,
+    "com_checkin": 1,
+    "media": 1.0
    }
   },
   "vendedores": [
