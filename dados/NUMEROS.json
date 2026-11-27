@@ -1,5 +1,5 @@
 {
- "corte": "27/11/2026 08:23",
+ "corte": "27/11/2026 09:33",
  "vendas_mes": 501153.14,
  "vendas_mes_bruto": 537348.79,
  "correcao_mes": 36195.65,
@@ -7,12 +7,12 @@
  "itens_mes": 77,
  "pedidos_mes": 76,
  "pagantes": 264,
- "ativos": 351,
+ "ativos": 352,
  "mrr": 175192.75,
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "27/11/2026 08:23",
+  "corte": "27/11/2026 09:33",
   "janela_dias": 30,
   "janela_ini": "28/10/2026",
   "tipos": {
@@ -68,15 +68,15 @@
   ],
   "fonte_fixo": "classificacao_vendas.json",
   "novo_se_pass_pago_nao_contasse": 0,
-  "cadastros_mes": 98,
+  "cadastros_mes": 99,
   "pass_mes": {
    "Convidado": {
-    "lancado": 128,
-    "usado": 46,
-    "cortesia": 128,
+    "lancado": 130,
+    "usado": 47,
+    "cortesia": 130,
     "pago": 0,
-    "de_cadastro_novo": 64,
-    "sem_uso": 82
+    "de_cadastro_novo": 66,
+    "sem_uso": 83
    },
    "Convite Founder": {
     "lancado": 67,
@@ -97,25 +97,25 @@
    }
   },
   "funil": {
-   "leads": 242,
-   "agendou": 107,
+   "leads": 243,
+   "agendou": 109,
    "checkin": 80,
    "venda": 11,
    "noshow": 18
   },
   "calor": {
-   "Quente": 109,
+   "Quente": 110,
    "Morno": 133,
    "Frio": 0,
    "Sem dado": 0
   },
   "noshow_club": {
-   "pessoas": 165,
-   "reservas": 476,
-   "janela": "28/10/2026 a 27/11/2026 08:23"
+   "pessoas": 166,
+   "reservas": 480,
+   "janela": "28/10/2026 a 27/11/2026 09:33"
   },
   "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 28/10/2026 e o corte, sem plano pago vigente (fora Pass) em 28/10/2026",
-  "noshow_leads": "18 de 242 leads",
+  "noshow_leads": "18 de 243 leads",
   "cadastros_sem_unidade": {
    "mes": 17,
    "janela": 19,
@@ -124,19 +124,19 @@
   "uso": {
    "Founder": {
     "membros": 88,
-    "checkins": 683,
+    "checkins": 682,
     "com_checkin": 62,
     "media": 7.8
    },
    "Life Code": {
     "membros": 39,
-    "checkins": 264,
+    "checkins": 265,
     "com_checkin": 23,
     "media": 6.8
    },
    "The One": {
     "membros": 203,
-    "checkins": 1131,
+    "checkins": 1130,
     "com_checkin": 138,
     "media": 5.6
    },
@@ -159,18 +159,18 @@
     "media": 0.0
    },
    "Pass": {
-    "membros": 2,
+    "membros": 3,
     "checkins": 3,
     "com_checkin": 1,
-    "media": 1.5
+    "media": 1.0
    }
   },
   "vendedores": [
    {
     "nome": "Gabriel Galante",
     "NOVO": {
-     "n": 7,
-     "valor": 127900.0
+     "n": 6,
+     "valor": 125700.0
     },
     "RENOVACAO": {
      "n": 2,
@@ -200,8 +200,8 @@
    {
     "nome": "Pâmela Alvarenga",
     "NOVO": {
-     "n": 4,
-     "valor": 95200.0
+     "n": 5,
+     "valor": 97400.0
     },
     "RENOVACAO": {
      "n": 4,
