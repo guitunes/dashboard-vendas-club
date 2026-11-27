@@ -1,5 +1,5 @@
 {
- "corte": "27/11/2026 09:33",
+ "corte": "27/11/2026 10:15",
  "vendas_mes": 501153.14,
  "vendas_mes_bruto": 537348.79,
  "correcao_mes": 36195.65,
@@ -12,7 +12,7 @@
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "27/11/2026 09:33",
+  "corte": "27/11/2026 10:15",
   "janela_dias": 30,
   "janela_ini": "28/10/2026",
   "tipos": {
@@ -68,14 +68,14 @@
   ],
   "fonte_fixo": "classificacao_vendas.json",
   "novo_se_pass_pago_nao_contasse": 0,
-  "cadastros_mes": 99,
+  "cadastros_mes": 100,
   "pass_mes": {
    "Convidado": {
-    "lancado": 130,
-    "usado": 47,
-    "cortesia": 130,
+    "lancado": 131,
+    "usado": 48,
+    "cortesia": 131,
     "pago": 0,
-    "de_cadastro_novo": 66,
+    "de_cadastro_novo": 67,
     "sem_uso": 83
    },
    "Convite Founder": {
@@ -97,25 +97,25 @@
    }
   },
   "funil": {
-   "leads": 243,
+   "leads": 244,
    "agendou": 109,
-   "checkin": 80,
+   "checkin": 81,
    "venda": 11,
    "noshow": 18
   },
   "calor": {
-   "Quente": 110,
+   "Quente": 111,
    "Morno": 133,
    "Frio": 0,
    "Sem dado": 0
   },
   "noshow_club": {
    "pessoas": 166,
-   "reservas": 480,
-   "janela": "28/10/2026 a 27/11/2026 09:33"
+   "reservas": 482,
+   "janela": "28/10/2026 a 27/11/2026 10:15"
   },
   "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 28/10/2026 e o corte, sem plano pago vigente (fora Pass) em 28/10/2026",
-  "noshow_leads": "18 de 243 leads",
+  "noshow_leads": "18 de 244 leads",
   "cadastros_sem_unidade": {
    "mes": 17,
    "janela": 19,
@@ -124,19 +124,19 @@
   "uso": {
    "Founder": {
     "membros": 88,
-    "checkins": 682,
+    "checkins": 685,
     "com_checkin": 62,
     "media": 7.8
    },
    "Life Code": {
     "membros": 39,
-    "checkins": 265,
+    "checkins": 267,
     "com_checkin": 23,
     "media": 6.8
    },
    "The One": {
     "membros": 203,
-    "checkins": 1130,
+    "checkins": 1133,
     "com_checkin": 138,
     "media": 5.6
    },
@@ -160,9 +160,9 @@
    },
    "Pass": {
     "membros": 3,
-    "checkins": 3,
-    "com_checkin": 1,
-    "media": 1.0
+    "checkins": 4,
+    "com_checkin": 2,
+    "media": 1.3
    }
   },
   "vendedores": [
