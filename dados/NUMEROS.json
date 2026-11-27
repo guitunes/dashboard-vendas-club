@@ -1,18 +1,18 @@
 {
- "corte": "27/11/2026 10:15",
+ "corte": "27/11/2026 18:59",
  "vendas_mes": 501153.14,
  "vendas_mes_bruto": 537348.79,
  "correcao_mes": 36195.65,
  "vendas_mes_regra": "vendas do mês = itens pagos do mês menos a Correção (63644, 63740 e relançamento); o bruto fica em vendas_mes_bruto",
  "itens_mes": 77,
  "pedidos_mes": 76,
- "pagantes": 264,
- "ativos": 352,
+ "pagantes": 263,
+ "ativos": 356,
  "mrr": 175192.75,
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "27/11/2026 10:15",
+  "corte": "27/11/2026 18:59",
   "janela_dias": 30,
   "janela_ini": "28/10/2026",
   "tipos": {
@@ -68,23 +68,23 @@
   ],
   "fonte_fixo": "classificacao_vendas.json",
   "novo_se_pass_pago_nao_contasse": 0,
-  "cadastros_mes": 100,
+  "cadastros_mes": 103,
   "pass_mes": {
    "Convidado": {
-    "lancado": 131,
-    "usado": 48,
-    "cortesia": 131,
+    "lancado": 138,
+    "usado": 51,
+    "cortesia": 138,
     "pago": 0,
-    "de_cadastro_novo": 67,
-    "sem_uso": 83
+    "de_cadastro_novo": 70,
+    "sem_uso": 87
    },
    "Convite Founder": {
-    "lancado": 67,
-    "usado": 25,
-    "cortesia": 67,
+    "lancado": 70,
+    "usado": 26,
+    "cortesia": 70,
     "pago": 0,
-    "de_cadastro_novo": 15,
-    "sem_uso": 42
+    "de_cadastro_novo": 16,
+    "sem_uso": 44
    },
    "Membership Pass": {
     "lancado": 2,
@@ -97,28 +97,28 @@
    }
   },
   "funil": {
-   "leads": 244,
+   "leads": 243,
    "agendou": 109,
-   "checkin": 81,
-   "venda": 11,
-   "noshow": 18
+   "checkin": 80,
+   "venda": 10,
+   "noshow": 19
   },
   "calor": {
-   "Quente": 111,
-   "Morno": 133,
+   "Quente": 120,
+   "Morno": 123,
    "Frio": 0,
    "Sem dado": 0
   },
   "noshow_club": {
-   "pessoas": 166,
-   "reservas": 482,
-   "janela": "28/10/2026 a 27/11/2026 10:15"
+   "pessoas": 170,
+   "reservas": 489,
+   "janela": "28/10/2026 a 27/11/2026 18:59"
   },
   "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 28/10/2026 e o corte, sem plano pago vigente (fora Pass) em 28/10/2026",
-  "noshow_leads": "18 de 244 leads",
+  "noshow_leads": "19 de 243 leads",
   "cadastros_sem_unidade": {
-   "mes": 17,
-   "janela": 19,
+   "mes": 16,
+   "janela": 18,
    "criterio": "cadastro sem unit e sem origem lifeclub, não staff: não dá para saber a casa, fica fora da contagem"
   },
   "uso": {
@@ -130,21 +130,21 @@
    },
    "Life Code": {
     "membros": 39,
-    "checkins": 267,
-    "com_checkin": 23,
-    "media": 6.8
+    "checkins": 263,
+    "com_checkin": 22,
+    "media": 6.7
    },
    "The One": {
-    "membros": 203,
-    "checkins": 1133,
+    "membros": 202,
+    "checkins": 1125,
     "com_checkin": 138,
     "media": 5.6
    },
    "Serviços": {
-    "membros": 6,
+    "membros": 9,
     "checkins": 27,
     "com_checkin": 4,
-    "media": 4.5
+    "media": 3.0
    },
    "Outros (Partnership e Colaborador)": {
     "membros": 11,
@@ -159,10 +159,10 @@
     "media": 0.0
    },
    "Pass": {
-    "membros": 3,
-    "checkins": 4,
-    "com_checkin": 2,
-    "media": 1.3
+    "membros": 5,
+    "checkins": 5,
+    "com_checkin": 3,
+    "media": 1.0
    }
   },
   "vendedores": [
