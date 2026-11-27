@@ -1,5 +1,5 @@
 {
- "corte": "26/11/2026 19:33",
+ "corte": "27/11/2026 08:23",
  "vendas_mes": 501153.14,
  "vendas_mes_bruto": 537348.79,
  "correcao_mes": 36195.65,
@@ -7,14 +7,14 @@
  "itens_mes": 77,
  "pedidos_mes": 76,
  "pagantes": 264,
- "ativos": 353,
+ "ativos": 351,
  "mrr": 175192.75,
  "assinaturas_ativas": 68,
  "assinaturas_sem_vigencia": 0,
  "v2": {
-  "corte": "26/11/2026 19:33",
+  "corte": "27/11/2026 08:23",
   "janela_dias": 30,
-  "janela_ini": "27/10/2026",
+  "janela_ini": "28/10/2026",
   "tipos": {
    "NOVO": {
     "n": 14,
@@ -72,11 +72,11 @@
   "pass_mes": {
    "Convidado": {
     "lancado": 128,
-    "usado": 47,
+    "usado": 46,
     "cortesia": 128,
     "pago": 0,
     "de_cadastro_novo": 64,
-    "sem_uso": 81
+    "sem_uso": 82
    },
    "Convite Founder": {
     "lancado": 67,
@@ -97,54 +97,54 @@
    }
   },
   "funil": {
-   "leads": 246,
-   "agendou": 109,
-   "checkin": 81,
+   "leads": 242,
+   "agendou": 107,
+   "checkin": 80,
    "venda": 11,
    "noshow": 18
   },
   "calor": {
-   "Quente": 115,
-   "Morno": 131,
+   "Quente": 109,
+   "Morno": 133,
    "Frio": 0,
    "Sem dado": 0
   },
   "noshow_club": {
-   "pessoas": 167,
-   "reservas": 479,
-   "janela": "27/10/2026 a 26/11/2026 19:33"
+   "pessoas": 165,
+   "reservas": 476,
+   "janela": "28/10/2026 a 27/11/2026 08:23"
   },
-  "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 27/10/2026 e o corte, sem plano pago vigente (fora Pass) em 27/10/2026",
-  "noshow_leads": "18 de 246 leads",
+  "funil_definicao": "lead = e-mail com cadastro (não staff, unidade Life Club) ou Pass lançado entre 28/10/2026 e o corte, sem plano pago vigente (fora Pass) em 28/10/2026",
+  "noshow_leads": "18 de 242 leads",
   "cadastros_sem_unidade": {
-   "mes": 16,
-   "janela": 18,
+   "mes": 17,
+   "janela": 19,
    "criterio": "cadastro sem unit e sem origem lifeclub, não staff: não dá para saber a casa, fica fora da contagem"
   },
   "uso": {
    "Founder": {
     "membros": 88,
-    "checkins": 689,
-    "com_checkin": 61,
+    "checkins": 683,
+    "com_checkin": 62,
     "media": 7.8
    },
    "Life Code": {
     "membros": 39,
-    "checkins": 265,
+    "checkins": 264,
     "com_checkin": 23,
     "media": 6.8
    },
    "The One": {
-    "membros": 204,
-    "checkins": 1135,
+    "membros": 203,
+    "checkins": 1131,
     "com_checkin": 138,
     "media": 5.6
    },
    "Serviços": {
     "membros": 6,
-    "checkins": 26,
+    "checkins": 27,
     "com_checkin": 4,
-    "media": 4.3
+    "media": 4.5
    },
    "Outros (Partnership e Colaborador)": {
     "membros": 11,
@@ -159,10 +159,10 @@
     "media": 0.0
    },
    "Pass": {
-    "membros": 3,
+    "membros": 2,
     "checkins": 3,
     "com_checkin": 1,
-    "media": 1.0
+    "media": 1.5
    }
   },
   "vendedores": [
